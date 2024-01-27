@@ -1,6 +1,7 @@
-numpy==1.0.0
-streamlit==1.30.0
-pandas==2.2.0
-matplotlib.pyplot==3.8.2
-yfinance==0.2.36
-keras==3.0.4
+numpy
+pandas
+matplotlib.pyplot
+yfinance
+pandas_datareader
+keras.models
+streamlit
